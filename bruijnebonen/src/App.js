@@ -79,9 +79,9 @@ class App extends Component {
         var temp = childSnapshot.toJSON();
         var toolset = temp['Toolset'].split("|");
         var ingredienten = temp['Ingredienten'].split("|");
-        var recept = new Recept(toolset, ingredienten, temp['Bereiding']);
+        var bereiding = temp['Bereiding'].split("|")
+        var recept = new Recept(toolset, ingredienten, bereiding);
         var receptItem = new Recipie(0, temp['Naam'], recept, temp['MaaltijdType'], temp['GerechtType'], temp['Afbeelding'], temp['Beschrijving']);
-        receptItems.push(receptItem);
         receptItems.push(receptItem);
       });
     });
@@ -132,7 +132,10 @@ class App extends Component {
             )})}
         </p>
         <h3>Bereiding</h3>
-        <p>{recipie.Recept.Bereiding}</p>
+        {recipie.Recept.Bereiding.map((ber, i)=>{
+            return (
+              <li>{ber}</li>
+            )})}
       </div>
     )
   }

@@ -8,5 +8,25 @@
         "Bereiding":"Doe niet zo moeilijk, koop ze gewoon bij de Jumbo.",
         "MaaltijdType": "Snack",
         "GerechtType": "Toetje"
+    },
+    "2345789345979-Macaroni":{
+        "Naam":"Macaroni",
+        "Afbeelding":"https://www.lekkerensimpel.com/wp-content/uploads/2016/09/IMG_8640.jpg",
+        "Beschrijving":"Een lekker ouderwets recept met macaroni. Er is wel eens zo’n dag dat je echt zin hebt in een prakkie, zoals deze macaroni met gehakt. Je kunt dit gerecht lekker met een vork eten en naar binnen schuiven. Ook de volgende dag is dit gerecht ook nog erg lekker, dus maak vooral een grotere portie!",
+        "Toolset":"Kookplaat", 
+        "Ingredienten":"Personen:2|Ui:1|Macaroni:150g|knoflook:1|Prei:200g|Paprika:1|Trostotomaten:3|trostomaten:2el|Tijm:1tl|Basilicum:1tl|Paprikapoeder:1tl|",
+        "Bereiding":"Zet een pan water op en kook de macaroni volgens de bereidingswijze op het pak.|Snijd de ui, knoflook, prei, paprika en tomaten in stukjes. Giet een scheutje olie in een pan en bak de ui, knoflook, prei en paprika aan. Voeg na circa 3-4 minuten de tomaten, kruiden en ketchup toe. Laat het geheel circa 10-15 minuten zachtjes pruttelen. Vervolgens pureer je de saus (dit hoeft natuurlijk niet).|Bak in een andere pan het gehakt rul en voeg dit daarna toe aan de tomatensaus, net zoals de macaroni. Meng alles goed door elkaar. Schep de macaroni op twee borden en strooi nog wat geraspte kaas en eventueel basilicum over de macaroni.",
+        "MaaltijdType": "Diner",
+        "GerechtType": "Diner"
+    },
+    "23457893459980-Salade":{
+        "Naam":"Salade met gerookte kip en spekjes",
+        "Afbeelding":"https://www.leukerecepten.nl/wp-content/uploads/2017/12/salade-met-gerookte-kip-en-spekjes-1.jpg",
+        "Beschrijving":"Deze frisse maaltijdsalade met kip, spek, mozzarella en appel is een een lekkere lunch of een licht hoofdgerecht om blij van te worden.",
+        "Toolset":"Kookplaat", 
+        "Ingredienten":"Personen:2|Slamelange:150g|Cherrytomaatjes:10|Gerookte Kipfilet:175g|Spekjes:125g|Mozzarellaballetjes:150g|Appel:1|Walnoten:10|",
+        "Bereiding":"Bak de spekjes in een droge koekenpan krokant en laat ze op een keukenpapiertje uitlekken en afkoelen. Snijd de appel in kleine stukjes en de cherrytomaatjes doormidden. Snijd de gerookte kip in plakjes en laat de mozzarellaballetjes even uitlekken.|Verdeel de sla over twee borden verdeel daarna de rest van de ingrediënten erover. Meng de ingrediënten voor de dressing in een kommetje en besprenkel de salade hiermee. Maak het af met wat walnoten.",
+        "MaaltijdType": "Diner",
+        "GerechtType": "Diner"
     }
 }
