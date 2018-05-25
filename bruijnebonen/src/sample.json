@@ -1,0 +1,19 @@
+{
+    "2345789345978-Donuts":{
+        "Naam":"Donut",
+        "Recept":{
+            "Toolset":[
+                "Magnetron", 
+                "Frituurpan"
+                ],
+            "Ingredienten":{
+                "Personen": 1,
+                "Suiker": "100 gram",
+                "Melk": "1 Liter"
+            },
+            "Bereiding":"Doe niet zo moeilijk, koop ze gewoon bij de Jumbo."
+        },
+        "MaaltijdType": "Snack",
+        "GerechtType": "Toetje"
+    }
+}

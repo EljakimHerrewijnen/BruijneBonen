@@ -1,0 +1,26 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'F:\\Program Files (x86)\\nodejs\\node.exe',
+1 verbose cli   'F:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'start' ]
+2 info using npm@3.10.10
+3 info using node@v6.9.5
+4 verbose stack Error: Failed to replace env in config: ${APPDATA}
+4 verbose stack     at F:\Program Files (x86)\nodejs\node_modules\npm\lib\config\core.js:418:13
+4 verbose stack     at RegExp.[Symbol.replace] (native)
+4 verbose stack     at RegExp.[Symbol.replace] (native)
+4 verbose stack     at String.replace (native)
+4 verbose stack     at envReplace (F:\Program Files (x86)\nodejs\node_modules\npm\lib\config\core.js:414:12)
+4 verbose stack     at parseField (F:\Program Files (x86)\nodejs\node_modules\npm\lib\config\core.js:392:7)
+4 verbose stack     at F:\Program Files (x86)\nodejs\node_modules\npm\lib\config\core.js:335:17
+4 verbose stack     at Array.forEach (native)
+4 verbose stack     at Conf.add (F:\Program Files (x86)\nodejs\node_modules\npm\lib\config\core.js:334:23)
+4 verbose stack     at ConfigChain.addString (F:\Program Files (x86)\nodejs\node_modules\npm\node_modules\config-chain\index.js:244:8)
+5 verbose cwd D:\Projects\Bruijne Bonen\BruijneBonen
+6 error Windows_NT 10.0.16299
+7 error argv "F:\\Program Files (x86)\\nodejs\\node.exe" "F:\\Program Files (x86)\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "start"
+8 error node v6.9.5
+9 error npm  v3.10.10
+10 error Failed to replace env in config: ${APPDATA}
+11 error If you need help, you may report this error at:
+11 error     <https://github.com/npm/npm/issues>
+12 verbose exit [ 1, true ]
