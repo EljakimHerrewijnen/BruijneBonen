@@ -71,19 +71,61 @@ body{
   margin: 10px;
 }
 
+.AppBalkLogo{
+  height:9%;
+  margin: 25%;
+}
+
 .RecipieButton{
   width: 40%;
   float: down;
   height: 20%;
-  border : 2px solid rgb(119,30,22);
+  border : 1px solid rgb(119,30,22);
   margin: 5px;
   right: 2px;
   bottom: 2px;
   position:absolute;
 }
 
+.RecipieItemParagraph{
+  width: 80%;
+  height: 60%;
+  float: right;
+}
+
 .RecipieButton:hover{
   background-color: rgb(211, 213, 209);
+}
+
+.SelectedRecipie{
+  padding: 2%;
+  float: right;
+  width: 80%;
+  height: 90%;
+  margin: 2%;
+
+  border : 2px solid rgb(119,30,22);
+}
+
+.SelectedRecipiePicture{
+  width: 20%;
+  height: 75%;
+  margin-left: 4px;
+  bottom: 4px;
+  border : 1px solid rgb(119,30,22);
+}
+
+.SelectedRecipieParagraph{
+  width: 75%;
+  height: 60%;
+  margin: 10px;
+  float: right;
+}
+
+.SelectedRecipiePrepParagraph{
+  width: 100%;
+  margin: 10px;
+  height: 100%;
 }
 
 /* Logo*/

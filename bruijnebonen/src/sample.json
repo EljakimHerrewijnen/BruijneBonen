@@ -1,18 +1,11 @@
 {
     "2345789345978-Donuts":{
         "Naam":"Donut",
-        "Recept":{
-            "Toolset":[
-                "Magnetron", 
-                "Frituurpan"
-                ],
-            "Ingredienten":{
-                "Personen": 1,
-                "Suiker": "100 gram",
-                "Melk": "1 Liter"
-            },
-            "Bereiding":"Doe niet zo moeilijk, koop ze gewoon bij de Jumbo."
-        },
+        "Afbeelding":"https://cdn.shopify.com/s/files/1/0201/3832/files/donut.jpg?v=1496423967",
+        "Beschrijving":"Deze donuts maken van elke gelegenheid een feestje! De zoete broodjes worden dagelijks vers gebakken door onze banketbakker en hebben stuk voor stuk een overheerlijke smaak. Of het nou een frisse Lemon Merengue donut is of de overheerlijke Love donut met witte chocolade topping en jam vulling, niemand kan er vanaf blijven. Nu alleen nog de vlag uithangen en het is feest!",
+        "Toolset":"Magnetron|Frituurpan", 
+        "Ingredienten":"Personen:1|Suiker:100 gram|Melk:1 Liter",
+        "Bereiding":"Doe niet zo moeilijk, koop ze gewoon bij de Jumbo.",
         "MaaltijdType": "Snack",
         "GerechtType": "Toetje"
     }
