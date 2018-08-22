@@ -48,7 +48,7 @@ class App extends Component {
   WriteData(download, newrecipies, downloaded){
     this.setState({
       downloading: download,
-      downloaded : downloaded,
+      downloaded: downloaded,
       recipies: newrecipies
     })
   }
@@ -165,6 +165,7 @@ class App extends Component {
         <div className="App">
         <header className="App-header">
           <img src="csfrLogo.ico" className="App-logo" alt="logo" />
+          
           <h1 className="App-title">Laden van gerechten...</h1>
         </header>
       </div>

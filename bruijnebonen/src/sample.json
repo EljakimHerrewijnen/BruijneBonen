@@ -5,7 +5,7 @@
         "Beschrijving":"Deze donuts maken van elke gelegenheid een feestje! De zoete broodjes worden dagelijks vers gebakken door onze banketbakker en hebben stuk voor stuk een overheerlijke smaak. Of het nou een frisse Lemon Merengue donut is of de overheerlijke Love donut met witte chocolade topping en jam vulling, niemand kan er vanaf blijven. Nu alleen nog de vlag uithangen en het is feest!",
         "Toolset":"Magnetron|Frituurpan", 
         "Ingredienten":"Personen:1|Suiker:100 gram|Melk:1 Liter",
-        "Bereiding":"Doe niet zo moeilijk, koop ze gewoon bij de Jumbo.",
+        "Bereiding":"Doe niet zo moeilijk! Koop ze gewoon bij de Jumbo.",
         "MaaltijdType": "Snack",
         "GerechtType": "Toetje"
     },
@@ -20,6 +20,16 @@
         "GerechtType": "Diner"
     },
     "23457893459980-Salade":{
+        "Naam":"Salade met gerookte kip en spekjes",
+        "Afbeelding":"https://www.leukerecepten.nl/wp-content/uploads/2017/12/salade-met-gerookte-kip-en-spekjes-1.jpg",
+        "Beschrijving":"Deze frisse maaltijdsalade met kip, spek, mozzarella en appel is een een lekkere lunch of een licht hoofdgerecht om blij van te worden.",
+        "Toolset":"Kookplaat", 
+        "Ingredienten":"Personen:2|Slamelange:150g|Cherrytomaatjes:10|Gerookte Kipfilet:175g|Spekjes:125g|Mozzarellaballetjes:150g|Appel:1|Walnoten:10|",
+        "Bereiding":"Bak de spekjes in een droge koekenpan krokant en laat ze op een keukenpapiertje uitlekken en afkoelen. Snijd de appel in kleine stukjes en de cherrytomaatjes doormidden. Snijd de gerookte kip in plakjes en laat de mozzarellaballetjes even uitlekken.|Verdeel de sla over twee borden verdeel daarna de rest van de ingrediënten erover. Meng de ingrediënten voor de dressing in een kommetje en besprenkel de salade hiermee. Maak het af met wat walnoten.",
+        "MaaltijdType": "Diner",
+        "GerechtType": "Diner"
+    },
+    "23457893459981-Salade":{
         "Naam":"Salade met gerookte kip en spekjes",
         "Afbeelding":"https://www.leukerecepten.nl/wp-content/uploads/2017/12/salade-met-gerookte-kip-en-spekjes-1.jpg",
         "Beschrijving":"Deze frisse maaltijdsalade met kip, spek, mozzarella en appel is een een lekkere lunch of een licht hoofdgerecht om blij van te worden.",

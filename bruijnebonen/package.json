@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://eljakimherrewijnen.github.io/BruijneBonen",
   "dependencies": {
+    "firebase": "^5.3.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4"
